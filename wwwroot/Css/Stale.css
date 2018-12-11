@@ -1,0 +1,23 @@
+.primary-content{
+    padding-left: 20%;
+    padding-top: 10%;
+}
+
+input{
+    padding: 10px 20px;
+    border-radius: 6px;
+    background-color: #95ecf4;
+    border: 5px double #4d5156;
+    user-select: none;
+}
+
+.submit{
+    border-radius: 6px;
+    background-color: #95ecf4;
+    border: 5px double #4d5156;
+    user-select: none;
+}
+
+input::placeholder{
+    color: #4d5156;
+}
