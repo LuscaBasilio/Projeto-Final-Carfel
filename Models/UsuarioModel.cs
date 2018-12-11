@@ -1,6 +1,6 @@
 using System;
 
-namespace Projeto_FINALA.Models
+namespace Projeto_Final_Carfel.Models
 {
     public class UsuarioModel
     {
@@ -10,5 +10,13 @@ namespace Projeto_FINALA.Models
         public int Id;
         public DateTime DataCriacao;
         public bool Tipo;
+
+        public UsuarioModel(int Id, string Nome, string Email, string Senha){
+            this.Id = Id;
+            this.Nome = Nome;
+            this.Email = Email.ToLower();
+            this.Senha = Senha;
+            this.DataCriacao = DateTime.Now;
+        }
     }
 }

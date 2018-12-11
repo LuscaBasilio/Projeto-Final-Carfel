@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fic\\Desktop\\Projeto_FINAL\\Projeto_FINALA\\Projeto_FINALA.csproj",
+      "projectUniqueName": "c:\\Users\\fic\\Desktop\\Projeto-Final-Carfel\\Projeto_FINALA.csproj",
       "projectName": "Projeto_FINALA",
-      "projectPath": "C:\\Users\\fic\\Desktop\\Projeto_FINAL\\Projeto_FINALA\\Projeto_FINALA.csproj",
+      "projectPath": "c:\\Users\\fic\\Desktop\\Projeto-Final-Carfel\\Projeto_FINALA.csproj",
       "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fic\\Desktop\\Projeto_FINAL\\Projeto_FINALA\\obj\\",
+      "outputPath": "c:\\Users\\fic\\Desktop\\Projeto-Final-Carfel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

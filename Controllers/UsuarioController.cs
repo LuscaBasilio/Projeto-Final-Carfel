@@ -1,7 +1,7 @@
-namespace Projeto_FINALA.Controllers
+namespace Projeto_Final_Carfel.Controllers
 {
     public class UsuarioController
     {
-        //WIP - O que foi feito aqui também foi devidamente descartado por não estar funcionando ;-;
+        
     }
 }
